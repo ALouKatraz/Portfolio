@@ -1,0 +1,23 @@
+#contact{
+    background-color: #333;
+}
+
+/* #containerContact{
+    padding: 3% 0;
+} */
+
+#containerContact ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: #BCFFFF;
+}
+
+#containerContact li{
+    padding: 5% 0;
+}
+
+#containerContact a{
+    text-decoration: none;
+    color: #BCFFFF;
+}
