@@ -1,10 +1,4 @@
-Ajout des liens => ok
+Déployer les sites mis en avant
 
-Améliorer les boutons => ok
-
-Faire en sorte que la photo ne soit pas coupée en haut => ok
-
-Couleur de fond plus impactantes pour les sections => ok
-
-Police 
+Créer des liens
 
